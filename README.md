@@ -8,7 +8,7 @@ run: ```shell $ python3 server.py ```
 
 ## __2nd__ step
 
-run: ```shell $ python3 server.py ```
+run: ```shell $ python3 client.py ```
 
 ``` Enter IP: 127.0.0.1 #localhost ```
 
