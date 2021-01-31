@@ -2,7 +2,7 @@ import threading
 import socket
 
 host = str(input('Enter IP: '))
-port = 3000
+port = 55555
 
 try:
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
