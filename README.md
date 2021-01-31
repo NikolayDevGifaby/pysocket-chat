@@ -12,7 +12,7 @@ run: ```shell $ python3 client.py ```
 
 ``` Enter IP: 127.0.0.1 #localhost ```
 
-``` Choose a nickname: ```_your nickname_ 
+``` Choose a nickname:``` _your nickname_ 
 
 - [x] socket server
 - [x] socket client
